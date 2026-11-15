@@ -2,6 +2,7 @@
  
 Analysis of four A/B tests with Python (pandas, statsmodels) and a Tableau dashboard that shows where the conversion metrics changed significantly and where they did not.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xD8AjPM2NiklnjzQbibfsSQwtxq86fY4?usp=sharing)  
 **Dashboard:** [Tableau Public](https://public.tableau.com/views/ABTestResults_17946029366250/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Goal
