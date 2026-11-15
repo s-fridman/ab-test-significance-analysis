@@ -54,3 +54,7 @@ Limitations:
 ## Tools
  
 Python, pandas, NumPy, statsmodels, Google Colab, Tableau Public.
+
+## Dashboard preview
+
+<img width="1291" height="794" alt="image" src="https://github.com/user-attachments/assets/ae551a13-bcb3-4d8b-ac6a-f180f460d501" />
